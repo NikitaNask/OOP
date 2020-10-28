@@ -1,0 +1,16 @@
+﻿  Source.cpp
+c:\projects\oop\lab1\kontrrab\kontrrab\source.cpp(13): error C2061: синтаксическая ошибка: идентификатор "_name"
+c:\projects\oop\lab1\kontrrab\kontrrab\source.cpp(14): error C3646: surname: неизвестный спецификатор переопределения
+c:\projects\oop\lab1\kontrrab\kontrrab\source.cpp(14): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\projects\oop\lab1\kontrrab\kontrrab\source.cpp(14): error C2365: Student::name: переопределение; предыдущим определением было "данные-член"
+  c:\projects\oop\lab1\kontrrab\kontrrab\source.cpp(7): note:  см. объявление "Student::name"
+c:\projects\oop\lab1\kontrrab\kontrrab\source.cpp(14): error C2059: синтаксическая ошибка: (
+c:\projects\oop\lab1\kontrrab\kontrrab\source.cpp(17): error C3646: name: неизвестный спецификатор переопределения
+c:\projects\oop\lab1\kontrrab\kontrrab\source.cpp(17): error C2059: синтаксическая ошибка: (
+c:\projects\oop\lab1\kontrrab\kontrrab\source.cpp(18): error C2059: синтаксическая ошибка: (
+c:\projects\oop\lab1\kontrrab\kontrrab\source.cpp(23): error C3646: name: неизвестный спецификатор переопределения
+c:\projects\oop\lab1\kontrrab\kontrrab\source.cpp(23): error C2059: синтаксическая ошибка: (
+c:\projects\oop\lab1\kontrrab\kontrrab\source.cpp(24): error C2059: синтаксическая ошибка: (
+c:\projects\oop\lab1\kontrrab\kontrrab\source.cpp(45): error C2143: синтаксическая ошибка: отсутствие ")" перед ";"
+c:\projects\oop\lab1\kontrrab\kontrrab\source.cpp(45): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+c:\projects\oop\lab1\kontrrab\kontrrab\source.cpp(45): error C2059: синтаксическая ошибка: )
